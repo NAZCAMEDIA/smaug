@@ -1,3 +1,85 @@
+# Thursday, January 15, 2026
+
+## @melvynxdev - Claude Code Safety: Use trash Instead of rm -rf
+> urgent pro tips with Claude Code :
+>
+> • add a https://code.claude.com/docs/ rules asking AI to NEVER use `rm -rf` and instead use `trash`
+> • install trash CLI `brew install trash`
+> • add a Claude Code hooks to refuse any command with rm -rf
+
+- **Tweet:** https://x.com/melvynxdev/status/2011803318709076000
+- **Link:** https://code.claude.com/docs/
+- **What:** Critical safety configuration for Claude Code to prevent accidental file deletion. Use `trash` CLI instead of `rm -rf`, configure CLAUDE.md rules, and add hooks to block destructive commands. Prevents data loss from AI-executed commands.
+
+---
+
+## @serafimcloud - 1Code: Open-Source Cursor-like UI for Claude Code
+> Introducing 1Code
+> Open source Cursor-like UI for Claude Code.
+
+- **Tweet:** https://x.com/serafimcloud/status/2011708591636680779
+- **What:** Open-source graphical interface for Claude Code that mimics Cursor's UX. Provides a familiar IDE-like experience for Claude Code users. Announced by serafim from 21st.dev.
+
+---
+
+## @0xDesigner - Design Plugin for Claude Code
+> "how do you design in claude code?"
+>
+> i could explain my process to you.
+>
+> or i can just give it to you (bookmark this)
+>
+> give this plugin to claude and ask it to install:
+>
+> then type "/design-and-refine:start" in cc and it will take care of the rest.
+
+- **Tweet:** https://x.com/0xDesigner/status/2011668144608456709
+- **Link:** https://github.com/0xdesign/design-plugin
+- **Filed:** [design-plugin](./knowledge/tools/design-plugin.md)
+- **What:** Claude Code plugin that streamlines UI/UX design workflows. Install and run `/design-and-refine:start` to initiate automated design refinement process.
+
+---
+
+## @koylanai - Trail of Bits Security Skills Analysis
+> These 17 security Skills for Claude Code are really well-written.
+>
+> - Decision trees agents can actually follow
+> - Authoritative sources with specific file paths
+> - Nested references for deeper context
+>
+> My take is that this is the beginning of something massive. Trail of Bits works with DARPA and Facebook. They don't do things casually.
+>
+> Every company with technical docs will ship Skill packages, not because it's nice to have, but because agents won't adopt your product without them.
+>
+> Agents (or humans) won't read docs; they execute Skills.
+>
+> If you're thinking about how agent-readable knowledge should be structured or are building/leading a startup that plans to create your own Skills:
+> I'd love to chat for 5-10 min to exchange ideas.
+> DMs open.
+>
+> *Quoting @dguido:* .@trailofbits released our first batch of Claude Skills. Official announcement coming later.
+
+- **Tweet:** https://x.com/koylanai/status/2011639648234176799
+- **Quoted:** https://x.com/dguido/status/2011541318229533063
+- **What:** Analysis of Trail of Bits' security Skills for Claude Code, highlighting their high quality decision trees and structured references. Positions Skills as the future of product documentation - agents execute Skills rather than read docs.
+
+---
+
+# Wednesday, January 14, 2026
+
+## @milesdeutscher - Claude Code Skills Marketplace (60,000+ Ready Skills)
+> If you're building with Claude Code, you'll want to bookmark this site.
+>
+> A full agent marketplace of 60,000+ Claude Skills that are ready for use now.
+>
+> https:// skillsmp. com/
+
+- **Tweet:** https://x.com/milesdeutscher/status/2011542096164036702
+- **Link:** https://skillsmp.com/
+- **What:** Marketplace of 60,000+ ready-to-use Claude Code Skills for building AI agents. Comprehensive catalog of pre-built capabilities for Claude Code development.
+
+---
+
 # Sunday, January 4, 2026
 
 ## @trq212 - AI alignment and interpretability resources
